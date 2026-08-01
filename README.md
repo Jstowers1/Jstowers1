@@ -2,7 +2,7 @@
 
 CS @ Mercer University (4+1 BS/MS in Computer Science, Spring 2028) · AI researcher · Infrastructure builder
 
-I build self-hosted systems. Docker fleet orchestration, Discord bots, AI agent tooling, and CNN pipelines for neutrino astrophysics. Python first, systems thinking always.
+I build self-hosted systems. Docker fleet orchestration, Discord bots, AI agent tooling, and CNN pipelines for neutrino astrophysics. 
 
 ## Projects
 
