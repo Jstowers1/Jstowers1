@@ -8,10 +8,10 @@ I build self-hosted systems. Docker fleet orchestration, Discord bots, AI agent 
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**LunkFleet**](https://github.com/Jstowers1/LunkserverManager) | Multi-host Docker container orchestration dashboard with real-time fleet telemetry, CI/CD, and tunnel automation | FastAPI, SvelteKit, Docker SDK, Tailscale |
+| [**Lunkfleet Manager**](https://github.com/Jstowers1/LunkserverManager) | Multi-host Docker container orchestration dashboard with real-time fleet telemetry, CI/CD, and tunnel automation | FastAPI, SvelteKit, Docker SDK, Tailscale |
 | [**SAELab**](https://github.com/Jstowers1/mechInterpVisualizer) | Interactive desktop app for mechanistic interpretability. Superposition, sparse autoencoders, and activation patching | PySide6, PyTorch, pyqtgraph, NumPy |
 | [**LunkBot**](https://github.com/Jstowers1/LunkBot) | Discord bot for game server management with 13 commands, Jellyfin analytics, and persistent DB | Python, discord.py, SQLite |
-| [**LunkAgent**](https://github.com/Jstowers1/lunkAgent) | GTK3 and WebKit2 desktop wrapper for the Hermes Agent AI assistant | Python, GTK3, WebKit2, JS injection |
+| [**LunkAgentUI**](https://github.com/Jstowers1/lunkAgent) | GTK3 and WebKit2 desktop wrapper for the Hermes Agent AI assistant | Python, GTK3, WebKit2, JS injection |
 
 ## Education
 
